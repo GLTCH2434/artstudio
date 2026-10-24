@@ -1,0 +1,11 @@
+{
+  "name": "ArtStudio Drawing",
+  "short_name": "ArtStudio",
+  "description": "A local-first digital drawing studio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111318",
+  "theme_color": "#111318",
+  "orientation": "any",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
